@@ -1,6 +1,4 @@
-Here's a clean and informative **`README.md`** you can use for your project, based on your description and code.
 
----
 
 ### ✅ `README.md`
 
