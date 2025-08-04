@@ -2,7 +2,7 @@
 
 ### ✅ `README.md`
 
-````markdown
+
 # 🤖 Local DeepSeek LLM Python Assistant
 
 This project is a **locally-hosted AI code assistant and document Q&A system** powered by **DeepSeek LLMs** using **Ollama** and **LangChain**. It provides two core features:
@@ -118,5 +118,3 @@ Built with:
 
 MIT License
 
-
-Let me know if you want me to add images, badges, or a video demo section.
